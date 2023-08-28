@@ -14,7 +14,7 @@ const CONFIG = {
 	name: 'Elias',
 	imageBackground: false,
 	openInNewTab: true,
-	twelveHourFormat: false,
+	twelveHourFormat: true,
 
 	// Greetings
 	greetingMorning: 'Hello There!',
