@@ -162,7 +162,7 @@ const CONFIG = {
 			links: [
 				{
 					name: 'Wasteof',
-					link: 'https://beta.wasteof.money/',
+					link: 'https://wasteof.money/',
 				},
 				{
 					name: 'Dribbble',
