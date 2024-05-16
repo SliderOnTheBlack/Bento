@@ -140,7 +140,7 @@ const CONFIG = {
 			links: [
 				{
 					name: 'Personal',
-					link: 'https://open.spotify.com/playlist/56e3J0KNkZzeDz0XTwMmK8?si=6fe7a30622a34bd6',
+					link: 'https://open.spotify.com/playlist/5X3Ct3UP38RsVjP3AQslCd?si=73eb2b49c9354f01',
 				},
 				{
 					name: 'TNC',
