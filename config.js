@@ -71,9 +71,9 @@ const CONFIG = {
 		},
 		{
 			id: '4',
-			name: 'Calendar',
-			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			name: 'Homer',
+			icon: 'settings',
+			link: 'http://192.168.1.111:8090/#',
 		},
 		{
 			id: '5',
