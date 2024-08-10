@@ -73,7 +73,7 @@ const CONFIG = {
 			id: '4',
 			name: 'Homer',
 			icon: 'settings',
-			link: 'http://192.168.1.111:8090/#',
+			link: 'http://192.168.1.106:8090/#',
 		},
 		{
 			id: '5',
